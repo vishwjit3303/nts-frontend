@@ -18,7 +18,7 @@
   height: 100vh;
   background: #FFFFFFB3;
   border-radius: 0px 0px 0px 0px;
-  background-image: url(images/img.jpeg);
+  background-image: url(/images/img.jpeg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
